@@ -1,0 +1,5 @@
+{
+    "require": {
+        "aelian/make-pdf": "^1.1"
+    }
+}
